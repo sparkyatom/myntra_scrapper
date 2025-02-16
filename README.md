@@ -1,1 +1,0 @@
-# myntra_scrapper
